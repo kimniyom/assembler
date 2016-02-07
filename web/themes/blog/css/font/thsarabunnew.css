@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'THSarabunNew';
+    src: url('http://webfont.webdesigner.in.th/font/THSarabunNew/thsarabunnew.eot');
+    src: url('http://webfont.webdesigner.in.th/font/THSarabunNew/thsarabunnew.eot') format('embedded-opentype'),
+        url('http://webfont.webdesigner.in.th/font/THSarabunNew/thsarabunnew.woff') format('woff'),
+        url('http://webfont.webdesigner.in.th/font/THSarabunNew/thsarabunnew.ttf') format('truetype'),
+        url('http://webfont.webdesigner.in.th/font/THSarabunNew/thsarabunnew.svg#THSarabunNewRegular') format('svg');
+
+}
+
+.thsarabunnew{
+    font-family: 'THSarabunNew', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: THSarabunNew;
+}
+
+body{
+font-family: THSarabunNew;
+}
