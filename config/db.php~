@@ -1,0 +1,19 @@
+<?php
+
+/*
+  return [
+  'class' => 'yii\db\Connection',
+  'dsn' => 'mysql:host=localhost;dbname=assembler_db',
+  'username' => 'root',
+  'password' => '123456',
+  'charset' => 'utf8',
+  ];
+ */
+return [
+    'class' => 'yii\db\Connection',
+    'dsn' => 'mysql:host=192.0.1.18;dbname=assembler_db',
+    'username' => 'assembler',
+    'password' => 'assembler',
+    'charset' => 'utf8',
+];
+
